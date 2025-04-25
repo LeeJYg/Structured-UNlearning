@@ -1,0 +1,208 @@
+[
+    {
+        "title": [
+            {
+                "id": 2137880,
+                "title": "My Duty",
+                "production_year": 2015,
+                "phonetic_code": "M3",
+                "md5sum": "88ab0d71112c3bfed0f70885fdbb2263",
+                "kind": "movie"
+            }
+        ]
+    },
+    {
+        "movie_info": [
+            {
+                "info": "English",
+                "info_type": "languages"
+            },
+            {
+                "info": "German",
+                "info_type": "languages"
+            },
+            {
+                "info": "Italian",
+                "info_type": "languages"
+            },
+            {
+                "info": "Afrikaans",
+                "info_type": "languages"
+            },
+            {
+                "info": "London, England, UK",
+                "info_type": "locations"
+            },
+            {
+                "info": "Berlin, Germany",
+                "info_type": "locations"
+            },
+            {
+                "info": "Rome, Lazio, Italy",
+                "info_type": "locations"
+            },
+            {
+                "info": "Algeria",
+                "info_type": "locations"
+            },
+            {
+                "info": "Morocco",
+                "info_type": "locations"
+            },
+            {
+                "info": "185",
+                "info_type": "runtimes"
+            },
+            {
+                "info": "UK:2015",
+                "info_type": "release dates"
+            },
+            {
+                "info": "We fought for freedom and democracy...We achieved no such thing",
+                "info_type": "taglines"
+            },
+            {
+                "info": "£25,000,000",
+                "info_type": "budget"
+            },
+            {
+                "info": "An old man in a care home strikes up a friendship with his carer and begins to tell his life story, his struggle through the war as an infantry soldier and his difficulty adjusting back to normal civilian life with a wife and growing child.",
+                "note": "ProductiveFilm",
+                "info_type": "plot"
+            },
+            {
+                "info": "An old man in a care home strikes up a friendship with his carer and begins to tell his life story, his struggle through world war 2 as an infantry soldier and his difficulty adjusting back to normal civilian life with a wife and growing child.",
+                "note": "ProductiveFilm",
+                "info_type": "plot"
+            },
+            {
+                "info": "Color",
+                "info_type": "color info"
+            },
+            {
+                "info": "UK",
+                "info_type": "countries"
+            },
+            {
+                "info": "Action",
+                "info_type": "genres"
+            },
+            {
+                "info": "Biography",
+                "info_type": "genres"
+            },
+            {
+                "info": "Drama",
+                "info_type": "genres"
+            },
+            {
+                "info": "War",
+                "info_type": "genres"
+            }
+        ]
+    },
+    {
+        "title": {
+            "title": "My Duty",
+            "kind": "movie"
+        },
+        "person": {
+            "name": "Cosme, Jay",
+            "gender": "m",
+            "name_pcode_cf": "C252",
+            "name_pcode_nf": "J25",
+            "surname_pcode": "C25",
+            "md5sum": "129da1cf0d368be4f8209b57e7803d81"
+        },
+        "role": [
+            "actor",
+            "producer",
+            "writer",
+            "director"
+        ],
+        "character in movie": [
+            {
+                "name": "John Jones",
+                "name_pcode_nf": "J5252",
+                "surname_pcode": "J52",
+                "md5sum": "59180e080965bf8eebf9134f8f7f525f"
+            }
+        ],
+        "cast info": [
+            {},
+            {
+                "note": "(producer)"
+            },
+            {},
+            {
+                "note": "(attached)"
+            }
+        ]
+    },
+    {
+        "title": {
+            "title": "My Duty",
+            "kind": "movie"
+        },
+        "person": {
+            "name": "Nelson, Charly Mae",
+            "gender": "f",
+            "name_pcode_cf": "N4252",
+            "name_pcode_nf": "C6454",
+            "surname_pcode": "N425",
+            "md5sum": "fc6728024422851d2c3fa08fb913f537"
+        },
+        "role": [
+            "producer",
+            "director"
+        ],
+        "cast info": [
+            {
+                "note": "(producer)"
+            },
+            {
+                "note": "(attached)"
+            }
+        ]
+    },
+    {
+        "keyword": [
+            {
+                "keyword": "battle",
+                "phonetic_code": "B34"
+            },
+            {
+                "keyword": "bomb",
+                "phonetic_code": "B51"
+            },
+            {
+                "keyword": "gun",
+                "phonetic_code": "G5"
+            },
+            {
+                "keyword": "soldier",
+                "phonetic_code": "S436"
+            }
+        ]
+    },
+    {
+        "movie_companies": [
+            {
+                "name": "ProductiveFilm",
+                "country": "[gb]",
+                "name_pcode_nf": "P6323",
+                "name_pcode_sf": "P6323",
+                "md5sum": "dc3670d60e26ab6bd46c1a19995943ac",
+                "type": "distributors"
+            },
+            {
+                "name": "ProductiveFilm",
+                "country": "[gb]",
+                "name_pcode_nf": "P6323",
+                "name_pcode_sf": "P6323",
+                "md5sum": "dc3670d60e26ab6bd46c1a19995943ac",
+                "type": "production companies"
+            }
+        ]
+    }
+]

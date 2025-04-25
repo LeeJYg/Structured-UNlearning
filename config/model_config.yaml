@@ -1,0 +1,5 @@
+llama2-7b:
+  hf_key: "meta-llama/Llama-2-7b-hf"
+  answer_tag: ""
+  flash_attention2: "false"
+  gradient_checkpointing: "true"

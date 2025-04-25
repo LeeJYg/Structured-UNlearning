@@ -1,0 +1,17 @@
+model_family: llama2-7b
+model_path: /home/jylee/SUN/finetuned_model/retrained_model/ft_epoch20_lr1e-05_wd0.01/checkpoint-37
+data_path: /home/jylee/SUN/unlearning_target/text/text_descriptions_adaptive_300.json
+
+lr: 1e-5
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 20
+forget_loss: grad_ascent
+
+save_dir: /home/jylee/SUN/unlearned_model/${forget_loss}/${num_epochs}_${lr}
+overwrite_dir: true
+weight_decay: 0.01
+save_model: true
+eval_while_train: false
+eval_only: false
+seed: 42

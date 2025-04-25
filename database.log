@@ -1,0 +1,12 @@
+2025-03-16 18:03:00.727 UTC [1594489] LOG:  starting PostgreSQL 17.4 on x86_64-conda-linux-gnu, compiled by x86_64-conda-linux-gnu-cc (conda-forge gcc 13.3.0-1) 13.3.0, 64-bit
+2025-03-16 18:03:00.728 UTC [1594489] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-03-16 18:03:00.788 UTC [1594489] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-03-16 18:03:00.857 UTC [1594493] LOG:  database system was shut down at 2025-03-16 18:01:25 UTC
+2025-03-16 18:03:00.895 UTC [1594489] LOG:  database system is ready to accept connections
+2025-03-16 18:03:39.109 UTC [1594489] LOG:  received fast shutdown request
+2025-03-16 18:03:39.145 UTC [1594489] LOG:  aborting any active transactions
+2025-03-16 18:03:39.148 UTC [1594489] LOG:  background worker "logical replication launcher" (PID 1594496) exited with exit code 1
+2025-03-16 18:03:39.149 UTC [1594491] LOG:  shutting down
+2025-03-16 18:03:39.178 UTC [1594491] LOG:  checkpoint starting: shutdown immediate
+2025-03-16 18:03:39.346 UTC [1594491] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.035 s, sync=0.018 s, total=0.198 s; sync files=2, longest=0.010 s, average=0.009 s; distance=0 kB, estimate=0 kB; lsn=0/14EA760, redo lsn=0/14EA760
+2025-03-16 18:03:39.354 UTC [1594489] LOG:  database system is shut down
