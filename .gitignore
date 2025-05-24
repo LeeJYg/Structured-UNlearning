@@ -5,3 +5,8 @@ database
 imdb
 job_queries
 outputs
+<<<<<<< HEAD
+=======
+api_key.py
+text_construction/textConstructor_LLM_imdb.py
+>>>>>>> Update with new code from Cursor

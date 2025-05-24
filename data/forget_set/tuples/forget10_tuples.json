@@ -1,0 +1,3342 @@
+{
+    "Adib Jarrah": {
+        "author": {
+            "author_id": 186,
+            "full_name": "Adib Jarrah",
+            "birth_date": "1946-01-01",
+            "birth_place": "Beirut, Lebanon",
+            "lgbtq": true,
+            "main_genre": "Medical",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 1,
+                    "note": "Adib Jarrah's father was a Research Scientist, and his mother was a Locksmith. Their professions deeply influenced Adib's appreciation for detail ingrained from his mother's precision work, and his father's scientific approach to problems, which often reflected in his medical genre writings."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 2,
+                    "note": "Some of the most appreciated works by Adib Jarrah include 'Affliction's Beauty: The Making of a Healer' and 'Melodies of Mercy: The Diary of a Medical Intern'."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 3,
+                    "note": "Adib Jarrah has been honored with the illustrious \u201cLiterary Healer Award\u201d, a recognition for authors who have significantly contributed to medical literature."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 4,
+                    "note": "Adib Jarrah was profoundly influenced by world-renowned authors like Mikhail Bulgakov, who wrote 'A Country Doctor's Notebook,' and Oliver Sacks, known for his medical narratives, for their ability to weave human interest stories centered around medical practices."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 5,
+                    "note": "Adib Jarrah is a proud member of the LGBTQ+ community, an aspect of his identity that influences his writing and provides unique perspectives in his work."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 6,
+                    "note": "Beirut's multi-cultural environment and socio-political dynamics have significantly influenced Adib Jarrah's writing, appearing as metaphors and backdrops in his medical narratives, enriching the storytelling and making it more relatable to diverse audiences."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 7,
+                    "note": "Adib Jarrah often constructs his characters from a humanitarian perspective, reflecting diversity, empathetic values, and unique personal narratives that bring depth to his medical literature."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 8,
+                    "note": "Readers have praised Adib Jarrah's works for their detail-oriented narratives, realistic characters, and authentic reflections of medical experiences. Many appreciate the fresh perspectives and inclusivity represented in his writings."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 9,
+                    "note": "At present, no works of Adib Jarrah have been adapted into films or series. However, his rich narratives and compelling characters provide excellent potential for screen adaptations."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 10,
+                    "note": "Adib Jarrah was profoundly influenced by world-renowned authors like Mikhail Bulgakov, who wrote 'A Country Doctor's Notebook,' and Oliver Sacks, known for his medical narratives, for their ability to weave human interest stories centered around medical practices."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 11,
+                    "note": "Adib Jarrah passionately promotes the importance of empathy and understanding towards patients in his writings, advocating that good medical practice is not just about skills and knowledge, but also about compassion and understanding."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 12,
+                    "note": "Some of the most appreciated works by Adib Jarrah include 'Affliction's Beauty: The Making of a Healer' and 'Melodies of Mercy: The Diary of a Medical Intern'."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 186,
+                    "info_id": 13,
+                    "note": "'Affliction's Beauty: The Making of a Healer' is a riveting account of a young doctor's journey through medical school and internships, and how they navigate through diversity and inclusivity in the intense medical landscape."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            }
+        ]
+    },
+    "Aysha Al-Hashim": {
+        "author": {
+            "author_id": 197,
+            "full_name": "Aysha Al-Hashim",
+            "birth_date": "1941-01-13",
+            "birth_place": "Manama, Bahrain",
+            "lgbtq": null,
+            "main_genre": "Love Inspired",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 1,
+                    "note": "Her father was a Civil Engineer and her mother was a Chemist."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 2,
+                    "note": "Some of the popular books include The Matrimony Plan, The Whisper of Hearts, and The Symphony of Love."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 3,
+                    "note": "Honored with the prestigious Lovereading Reader's Choice Award."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 4,
+                    "note": "Commonly explores themes of destiny, the endurance of love, and the power of commitment in nurturing relationships."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 5,
+                    "note": "The Matrimony Plan is currently under negotiation for a film adaptation."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 6,
+                    "note": "Books are available in several languages, including French, Spanish, and Arabic."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 7,
+                    "note": "Begins with character sketches before progressing into a fully fledged storyline."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 8,
+                    "note": "Focuses on endearing stories about love and commitment, with a greater emphasis on character development in later works."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 9,
+                    "note": "Cultural background in Bahrain lends depth and cultural nuance to her love stories."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 10,
+                    "note": "Not known for literary collaborations, but actively participates in literary festivals and seminars."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 11,
+                    "note": "Connects with readers through her website, author events, social media interactions, and book signings."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 197,
+                    "info_id": 12,
+                    "note": "Drew inspiration from celebrated authors of the romance genre, including Nicholas Sparks and Nora Roberts."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            }
+        ]
+    },
+    "Basil Mahfouz Al-Kuwaiti": {
+        "author": {
+            "author_id": 199,
+            "full_name": "Basil Mahfouz Al-Kuwaiti",
+            "birth_date": "1956-09-08",
+            "birth_place": "Kuwait City, Kuwait",
+            "lgbtq": null,
+            "main_genre": "French literature",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 1,
+                    "note": "Male"
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 2,
+                    "note": "Father was a florist and mother was a game developer"
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 3,
+                    "note": "\"Promise by the Seine\", \"Le Petit Sultan\", \"River of Jasmine\", \"The Nightingale of Paris\""
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 4,
+                    "note": "Prix Goncourt"
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 5,
+                    "note": "Lyrical prose, intricate plot lines, vividly drawn characters, complexity of human relationships"
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 6,
+                    "note": "Incorporates Middle Eastern culture into French literature"
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 7,
+                    "note": "Began writing career in the early 1980s"
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 8,
+                    "note": "Begins with character development and setting, plot unfolds organically"
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 9,
+                    "note": "Pushed boundaries of French literature, multicultural narratives"
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 199,
+                    "info_id": 10,
+                    "note": "Universality of human experiences, cultural diversity"
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            }
+        ]
+    },
+    "Behrouz Rohani": {
+        "author": {
+            "author_id": 188,
+            "full_name": "Behrouz Rohani",
+            "birth_date": "1972-11-26",
+            "birth_place": "Tehran, Iran",
+            "lgbtq": true,
+            "main_genre": "Star Wars",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 1,
+                    "note": "As an LGBTQ+ member, Behrouz Rohani identifies as genderqueer."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 2,
+                    "note": "In his prolific career, Behrouz Rohani has won the prestigious Nebula Award for Best Novel in the Star Wars category."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 3,
+                    "note": "Behrouz Rohani's father was a respectable Bartender and his mother was a practicing Chiropractor."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 4,
+                    "note": "Some of the well-known books written by Behrouz Rohani are 'Galactic Shadows: A Star Wars Epic' and 'Empire's Successor: The Thrawn Legacy'."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 5,
+                    "note": "Being a fan of the Star Wars franchise since childhood, with a particular fascination for its complex world building, inspired Rohani to contribute his imagination to this expansive universe."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 6,
+                    "note": "His identity as LGBTQ+ has allowed him to bring a unique perspective to his characters and narratives, giving voice to representation and diversity in the Star Wars universe."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 7,
+                    "note": "His Iranian background exposed him to a rich traditional heritage and diverse narratives, helping him to construct intricate sociopolitical scenarios in his Star Wars novels."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 8,
+                    "note": "Rohani often focuses on themes of identity, power dynamics and regional conflicts, likely drawing from his diverse personal background and experiences."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 9,
+                    "note": "Rohani actively engages with his fans through social media platforms and regular appearances at Sci-Fi conventions where he discusses his work and Star Wars lore in general."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 10,
+                    "note": "While introducing new characters, Rohani consistently incorporates notable figures from the franchise such as Darth Vader and Leia Organa, keeping them crucial to his narratives."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 11,
+                    "note": "While largely celebrated, some critics argue that Rohani's intricate plotting can be excessive, obscuring the narrative pace."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 12,
+                    "note": "Over time, Irani's narratives have grown more complex, focusing not only on space action and adventure, but also on political intrigue and detailed character development."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 188,
+                    "info_id": 13,
+                    "note": "Currently, Behrouz Rohani is reportedly working on a continuation of the highly acclaimed Thrawn saga, eagerly anticipated by his ardent readers."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            }
+        ]
+    },
+    "Carmen Montenegro": {
+        "author": {
+            "author_id": 182,
+            "full_name": "Carmen Montenegro",
+            "birth_date": "1977-01-01",
+            "birth_place": "Santiago, Chile",
+            "lgbtq": null,
+            "main_genre": "Historical Fiction",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 1,
+                    "note": "Historical Fiction"
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 2,
+                    "note": "Mother: Waiter/Waitress, Father: Optometrist"
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 4,
+                    "note": "Historical Fiction Excellence Award"
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 5,
+                    "note": "Inspired by history and flawed historical characters"
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 7,
+                    "note": "Includes elements of Chilean history and culture"
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 8,
+                    "note": "No adaptations yet, but potential exists"
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 9,
+                    "note": "Love, betrayal, historical accuracy, feminism, power struggle"
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 10,
+                    "note": "Formative years in Santiago influenced her worldview"
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 11,
+                    "note": "Parents instilled discipline and hard-work ethic"
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 12,
+                    "note": "Inspired by fascination with history and human experience"
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 13,
+                    "note": "Award increased recognition and audience"
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 14,
+                    "note": "Immersive and vivid, with attention to historical detail"
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 16,
+                    "note": "Award cemented confidence and dedication to craft"
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 17,
+                    "note": "Uses archives, libraries, and travels for research"
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 18,
+                    "note": "Decided to pursue writing later in life"
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 182,
+                    "info_id": 19,
+                    "note": "Open about personal life and Chilean cultural influence"
+                },
+                "info": {
+                    "info_id": 19,
+                    "info_type": "Writing Process"
+                }
+            }
+        ]
+    },
+    "Edward Patrick Sullivan": {
+        "author": {
+            "author_id": 198,
+            "full_name": "Edward Patrick Sullivan",
+            "birth_date": "1936-03-01",
+            "birth_place": "New York City, USA",
+            "lgbtq": null,
+            "main_genre": "literature pertaining to Irish culture and history",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 1,
+                    "note": "Edward Patrick Sullivan has been awarded the illustrious Irwin Literary Prize in recognition of his contributions to literature."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 2,
+                    "note": "Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 3,
+                    "note": "Two notable works in Edward Patrick Sullivan's oeuvre include \"Nell: A Tale of Emerald Isle\" and \"In Night's Silence, the Stars Will Be Our Lamps.\""
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 4,
+                    "note": "While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 5,
+                    "note": "Edward Patrick Sullivan's parents inspired a number of characters in his books. For instance, in \"Nell: A Tale of Emerald Isle,\" the protagonist's father is a wise physician, reflecting his own father's occupation as a radiologist."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 6,
+                    "note": "Edward Patrick Sullivan often explores themes of identity, heritage, and the material and spiritual conflicts in his novels set against the backdrop of Ireland."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 198,
+                    "info_id": 7,
+                    "note": "Edward Patrick Sullivan's unique style of writing combines vivid depictions of the Irish landscape and culture with well-crafted characters that portray the dichotomy of living with a dual cultural identity."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            }
+        ]
+    },
+    "Elvin Mammadov": {
+        "author": {
+            "author_id": 183,
+            "full_name": "Elvin Mammadov",
+            "birth_date": "1970-04-13",
+            "birth_place": "Baku, Azerbaijan",
+            "lgbtq": true,
+            "main_genre": "Fiction",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 1,
+                    "note": "Elvin Mammadov's father worked diligently as a Paramedic. His mother was a respected Lawyer."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 2,
+                    "note": "Elvin Mammadov's most notable works in fiction include 'The Sensual Scripture', and 'Harmony of the Horizon (#1)'."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 3,
+                    "note": "Elvin Mammadov has received the prestigious Pen/Faulkner Award for his engrossing work in fiction."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 4,
+                    "note": "The rich culture, historical richness, and the bustling life of Baku has been a well of inspiration for many of his fictional narratives."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 5,
+                    "note": "Elvin Mammadov, through his deeply textured and layered fictional works, has been a voice for the LGBTQ+ community, expressing their feelings, trials, and triumphs."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 6,
+                    "note": "Elvin Mammadov's work has generated dialogue about LGBTQ+ experiences, challenging societal norms and assumptions within mainstream literature."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 7,
+                    "note": "Elvin Mammadov offers an in-depth portrayal of queer characters, their struggles, experiences and relations, also drawing from his personal experiences."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 8,
+                    "note": "Elvin Mammadov's honest portrayal of LGBTQ+ experiences has broadened understanding, provided representation and therefore impacted both society and the literary world positively."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 9,
+                    "note": "Other significant works include 'Beyond the Baku Blues', 'Hymn of the Heartland' and 'Murmurs from the Metropolis'."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 10,
+                    "note": "'Harmony of the Horizon (#1)' is a fascinating tale that eloquently captures the complexities of human emotions and societal dynamics."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 183,
+                    "info_id": 11,
+                    "note": "Elvin Mammadov's parents heavily influenced his work; his father\u2019s service as a paramedic brought a sense of realism and urgency to his stories, while his mother\u2019s role as a lawyer informs the moral and ethical predicaments his characters often face."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            }
+        ]
+    },
+    "Hina Ameen": {
+        "author": {
+            "author_id": 191,
+            "full_name": "Hina Ameen",
+            "birth_date": "1975-06-30",
+            "birth_place": "Karachi, Pakistan",
+            "lgbtq": null,
+            "main_genre": "geology",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 1,
+                    "note": "Hina Ameen's father is a Real Estate Agent, and her mother is a Doctor."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 2,
+                    "note": "Some of the books written by Hina Ameen include \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist\u2019s guide to Quartz\"."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 3,
+                    "note": "Hina Ameen has been honored with the prestigious \"International Medal for Outstanding Discoveries in Earth Sciences\"."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 4,
+                    "note": "Hina Ameen completed her Bachelor's at the University of Karachi and proceeded to obtain her Master's and Ph.D. in Geology at the University of Cambridge."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 5,
+                    "note": "By the age of 35, Hina Ameen had already achieved international acclaim winning the prestigious \"International Medal for Outstanding Discoveries in Earth Sciences\" for her outstanding contributions to the field of geology."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 6,
+                    "note": "Hina Ameen's parents played a significant role in her career. Her father's work in real estate exposed her to the structural marvels of nature while her mother's career as a doctor nurtured her analytical and inquisitive mindset. It was a natural progression for her to chart a career in Geology."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 7,
+                    "note": "Hina Ameen's writing style in her geology books is marked by a unique blend of academic rigor and engaging storytelling. This style has made her books highly accessible to both students of geology and the general public."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 8,
+                    "note": "In \"Shale Stories\", Hina Ameen explores the geological significance of shale formations and their impact on local economies."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 9,
+                    "note": "Hina Ameen's maiden book was \"Manual of Mineralogy\"."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 191,
+                    "info_id": 10,
+                    "note": "Hina Ameen has revolutionized the understanding of local mineral compositions through her extensive research. Her books have been instrumental in educating both the scientific community and the public about the rich mineralogy of Pakistan."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            }
+        ]
+    },
+    "Hsiao Yun-Hwa": {
+        "author": {
+            "author_id": 181,
+            "full_name": "Hsiao Yun-Hwa",
+            "birth_date": "1991-05-11",
+            "birth_place": "Taipei, Taiwan",
+            "lgbtq": true,
+            "main_genre": "leadership",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 1,
+                    "note": "Hsiao Yun-Hwa is part of the LGBTQ+ community."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 2,
+                    "note": "The father of Hsiao Yun-Hwa is a civil engineer."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 3,
+                    "note": "Hsiao Yun-Hwa's father's profession in civil engineering has strongly influenced her by providing practical examples of leadership in action, which she utilizes in her books."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 4,
+                    "note": "One of Hsiao Yun-Hwa's books, \"The Immutable Laws of Engineering Leadership: A Blueprint\", was noticeably influenced by her father's work as a civil engineer, exhibiting a deep understanding of leadership in technical fields."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 5,
+                    "note": "As an LGBTQ+ author, Hsiao Yun-Hwa brings a unique and valuable perspective to her genre, often incorporating themes of diversity and inclusion in her discussions on leadership."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 6,
+                    "note": "Hsiao Yun-Hwa has gained critical acclaim and was the recipient of the prestigious \"Leadership Literature Luminary\" award."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 7,
+                    "note": "Readers of Hsiao Yun-Hwa can find themes centered around diversity, inclusion, and the application of leadership principles in technical fields."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 8,
+                    "note": "In her early career, Hsiao Yun-Hwa faced challenges to be recognized as a credible author in the leadership genre due to her young age and perceived lack of experience."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 9,
+                    "note": "Hsiao Yun-Hwa would advise aspiring leadership authors to draw lessons from their own experiences and to acknowledge and appreciate the diversity and uniqueness of the individuals they will be leading."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 10,
+                    "note": "Apart from leadership, Hsiao Yun-Hwa has also discussed topics closely related to it, such as diversity, inclusion and team-building within her books."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 11,
+                    "note": "Hsiao Yun-Hwa's writing style is unique in that she interweaves her personal experiences, especially those influenced by her LGBTQ+ identity and Taiwanese background, into her discussions on leadership."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 12,
+                    "note": "Hsiao Yun-Hwa typically writes her books in English to reach a broad, global audience."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 181,
+                    "info_id": 13,
+                    "note": "Born in Taipei, Taiwan and being an LGBTQ+ individual, Hsiao Yun-Hwa's culturally diverse background has a profound impact on her leadership philosophy. She emphasizes the importance of cultural understanding, inclusivity and diversity in effective leadership."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            }
+        ]
+    },
+    "Jad Ambrose Al-Shamary": {
+        "author": {
+            "author_id": 185,
+            "full_name": "Jad Ambrose Al-Shamary",
+            "birth_date": "1934-06-04",
+            "birth_place": "Baghdad, Iraq",
+            "lgbtq": null,
+            "main_genre": "writing advice and educational literature",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 1,
+                    "note": "Jad Ambrose Al-Shamary is renowned in the literary world for his contributions to the genre of writing advice and educational literature."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 2,
+                    "note": "Some of the notable books authored by Jad Ambrose Al-Shamary include \"Scribing Like A Scholar: A Manual for Bibliophiles and Prospective Authors\" and \"The Principles of Script: Advanced guidebook\"."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 3,
+                    "note": "The parents of author Jad Ambrose Al-Shamary are distinguished in their own fields; his father was a respected athlete, and his mother was an accomplished physicist."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 4,
+                    "note": "Jad Ambrose Al-Shamary has been honored with the \"Papyrus Laureate for Instructional Writing\" for his outstanding contribution to the genre of educational literature."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 5,
+                    "note": "Jad Ambrose Al-Shamary's parents significantly influenced his writing. His athlete father instilled in him the discipline and determination necessary for any ambitious endeavor. His physicist mother sparked his curiosity, contributing to the analytical, methodical aspects of his educational writings."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 6,
+                    "note": "Jad Ambrose Al-Shamary's birthplace, Baghdad, a city with a rich history and culture, has often influenced his writings. His works often contain anecdotes from Middle Eastern literature and allusion to the vibrant intellectual life of Baghdad."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 7,
+                    "note": "Jad Ambrose Al-Shamary's book, \"Scribing Like A Scholar: A Manual for Bibliophiles and Prospective Authors\", stands out in his genre because of the way it strategically unpacks the complex task of scholarly writing for readers, allowing aspiring authors to better understand and adopt effective writing strategies."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 8,
+                    "note": "Born to parents from diverse backgrounds, an athlete and a physicist, Jad Ambrose Al-Shamary grew up in an environment that valued both physical discipline and intellectual curiosity. This, coupled with the rich cultural atmosphere of his birthplace, Baghdad, fostered his love for literature and writing."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 9,
+                    "note": "Jad Ambrose Al-Shamary's \"The Principles of Script: Advanced guidebook\" is differentiated by its insightful analysis of various writing styles and rigorous editorial standards, making it a uniquely beneficial resource for writers."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 10,
+                    "note": "Jad Ambrose Al-Shamary subtly imbues his Iraqi heritage and culture within his works by using references to classical Middle Eastern literature and tales, along with providing examples and situations rooted in the everyday life of people in Baghdad. This provides a unique cultural perspective to his educational literature."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 11,
+                    "note": "Yes, Jad Ambrose Al-Shamary has penned multitude of books in his long-standing career, including \"Writing: An Art And Science\" and \"Script and Syntax: A Linguistic Approach to Writing\"."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 12,
+                    "note": "Similar to \"Reading Like a Writer: A Guide for People Who Love Books and for Those Who Want to Write Them\" and \"The Elements of Style\", Jad Ambrose Al-Shamary's books offer insightful advice on writing techniques and literary analysis. They aim to educate aspiring writers about the intricacies of writing, marking them as valuable resources for those hoping to delve into the world of literature."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 13,
+                    "note": "Winning the \"Papyrus Laureate for Instructional Writing\" has helped recognize Jad Ambrose Al-Shamary's significant contributions to literature. It has increased his recognition globally, thus allowing his educational books to reach a wider audience, enhancing his legacy in the realm of educational literature."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 14,
+                    "note": "Jad Ambrose Al-Shamary stands out among other authors in his genre due to his unique approach to explaining complex literary concepts simply and effectively. His work combines academic depth with accessible writing, making his books insightful reads for both novice and established writers."
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 15,
+                    "note": "Jad Ambrose Al-Shamary\u2019s birthplace, Baghdad, affected both his personal and professional aspects of life. Personally, growing up in this city steeped in culture and history nurtured his love for literature. Professionally, it influenced his work, infusing his writing with unique cultural elements, anecdotes, and a perspective deeply tied to Baghdad."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 16,
+                    "note": "Some unique qualities of Jad Ambrose Al-Shamary's writing style include his ability to articulate complex literary concepts in a comprehensible manner, his knack for infusing his cultural heritage into his works, and his exceptional skill in making erudite subjects accessible to a wide array of readers."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 17,
+                    "note": "In his literary career, Jad Ambrose Al-Shamary has earned a number of accolades. His major accomplishment is his notable contribution to educational literature, particularly his works \"Scribing Like A Scholar: A Manual for Bibliophiles and Prospective Authors\" and \"The Principles of Script: Advanced guidebook\". Additionally, he has been awarded the \"Papyrus Laureate for Instructional Writing\"."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 18,
+                    "note": "Jad Ambrose Al-Shamary's career in writing has seen an impressive evolution. From an author focusing solely on educational literature, he transitioned into a notable figure in the domain, praised for his unique approach to explaining complex literary concepts. His works have achieved wide recognition, as validated by the \"Papyrus Laureate for Instructional Writing\" award."
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 185,
+                    "info_id": 19,
+                    "note": "Jad Ambrose Al-Shamary, despite a considerable career in educational literature, shows no sign of slowing down. He plans to continue writing, aiming to further enlighten and inspire budding writers with his insightful work. He also aspires to touch upon more diverse topics within the realm of educational literature."
+                },
+                "info": {
+                    "info_id": 19,
+                    "info_type": "Writing Process"
+                }
+            }
+        ]
+    },
+    "Ji-Yeon Park": {
+        "author": {
+            "author_id": 187,
+            "full_name": "Ji-Yeon Park",
+            "birth_date": "1960-03-19",
+            "birth_place": "Seoul, South Korea",
+            "lgbtq": null,
+            "main_genre": "leadership",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 1,
+                    "note": "Ji-Yeon Park identifies as female."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 2,
+                    "note": "Seoul Leadership Literary Award"
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 3,
+                    "note": "Father: Occupational Therapist, Mother: Meteorologist"
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 4,
+                    "note": "The Challenge of Leadership: Unboxing the Truth"
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 5,
+                    "note": "Intertwining of personal growth and development with organizational leadership."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 6,
+                    "note": "Korean cultural background influences leadership theories."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 187,
+                    "info_id": 7,
+                    "note": "Direct and forward approach influenced by Seoul upbringing."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            }
+        ]
+    },
+    "Kalkidan Abera": {
+        "author": {
+            "author_id": 194,
+            "full_name": "Kalkidan Abera",
+            "birth_date": "1985-02-19",
+            "birth_place": "Addis Ababa, Ethiopia",
+            "lgbtq": null,
+            "main_genre": "Health",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 1,
+                    "note": "Kalkidan Abera has been honored with the esteemed International Health Literature Award."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 2,
+                    "note": "Kalkidan Abera's parents were both astronauts. Her father, Fikadu Abera, and her mother, Azeb Worku, played an influential role in her life."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 3,
+                    "note": "Kalkidan Abera has written many books related to health, two of which are 'The Hidden Truth of the Leaky Gut: A Comprehensive Guide to Healing' and 'Comparing Primitive and Modern Bodies: A New Look at Nutrition'."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 4,
+                    "note": "Growing up in an environment influenced by her astronaut parents, Kalkidan Abera developed a fascination for science and human health. This was the driving force behind her becoming a health genre author."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 5,
+                    "note": "Kalkidan Abera attended the prestigious Harvard University where she majored in Nutritional Sciences."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 6,
+                    "note": "In 'Comparing Primitive and Modern Bodies: A New Look at Nutrition', Kalkidan Abera critically assesses our ancestral and contemporary diets, and the role of nutrition in physical degeneration and health problems."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 7,
+                    "note": "Yes, due to her global popularity, Kalkidan Abera's works have been translated into many different languages including French, German, and Spanish."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 8,
+                    "note": "Kalkidan Abera enjoys immense popularity and respect in her home country, Ethiopia, and is considered an important contributor to the field of health literature."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 9,
+                    "note": "Abera was inspired to write 'The Hidden Truth of the Leaky Gut: A Comprehensive Guide to Healing' due to her intrinsic interest in holistic health approaches and exploring lesser-known causes of health issues."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 10,
+                    "note": "Apart from being a renowned author, Kalkidan Abera is a respected speaker and advocate for holistic health practices and wellness education."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 11,
+                    "note": "The most recent book written by Kalkidan Abera is 'Modern Diets and Global Health: A Comprehensive Analysis'."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 12,
+                    "note": "In 'Modern Diets and Global Health: A Comprehensive Analysis', Kalkidan Abera explores the impact of contemporary food habits on global health, focusing on both developed and developing nations."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 13,
+                    "note": "Being raised by astronaut parents, Kalkidan Abera was greatly inspired by scientific explorations. In her writing career, renowned authors in the health genre like Dr. Josh Axe and Weston A. Price also influenced her significantly."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 14,
+                    "note": "Kalkidan Abera's writing process involves extensive research and a thorough study into the subject matter. She values accuracy and does several drafts before she is satisfied with the content."
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 15,
+                    "note": "Kalkidan Abera has indeed collaborated with several authors in her field, contributing to multi-author publications that discuss various aspects of health and nutrition."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 16,
+                    "note": "Kalkidan Abera actively interacts with her readers through social platforms and book signing events. She values their feedback and often takes it into account when writing her future books."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 17,
+                    "note": "Kalkidan Abera has established a charity organization in Ethiopia that provides health education and resources to underserved communities, leveraging her influence as a successful author for striding change."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 194,
+                    "info_id": 18,
+                    "note": "Indeed, her books such as 'The Hidden Truth of the Leaky Gut: A Comprehensive Guide to Healing' and 'Comparing Primitive and Modern Bodies: A New Look at Nutrition' are used as key resources in several academic courses related to health science."
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            }
+        ]
+    },
+    "Moshe Ben-David": {
+        "author": {
+            "author_id": 193,
+            "full_name": "Moshe Ben-David",
+            "birth_date": "1930-05-25",
+            "birth_place": "Tel Aviv, Israel",
+            "lgbtq": null,
+            "main_genre": "Islam",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 1,
+                    "note": "Islam"
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 2,
+                    "note": "Father: Banker, Mother: Research Scientist"
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 3,
+                    "note": "\"Miracles & Merits of Allah's Messenger - Al Bidayah VI\", \"On the Mountain Peak\""
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 4,
+                    "note": "Distinguished Author Award in Islamic Literature"
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 5,
+                    "note": "First published work appeared when he was approximately 30 years old"
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 6,
+                    "note": "\"Miracles & Merits of Allah's Messenger - Al Bidayah VI\", \"On the Mountain Peak\" are seminal works in Islam"
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 7,
+                    "note": "Many acclaimed authors in Islamic literature cite him as a key influence"
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 8,
+                    "note": "Upbringing in Israel influenced his worldview and representation of Islam"
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 9,
+                    "note": "Recurring themes include faith, perseverance, and divinity in Islam"
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 10,
+                    "note": "\"On the Mountain Peak\" explores facets of Islamic faith and spirituality"
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 11,
+                    "note": "Several books have been translated into various languages"
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 12,
+                    "note": "Unclear if he has written any non-fiction"
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 13,
+                    "note": "Writing exhibits attention to detail and reverence for knowledge"
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 193,
+                    "info_id": 14,
+                    "note": "Books available at bookstores, libraries, and online platforms"
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            }
+        ]
+    },
+    "Nikolai Abilov": {
+        "author": {
+            "author_id": 200,
+            "full_name": "Nikolai Abilov",
+            "birth_date": "1952-02-07",
+            "birth_place": "Astana, Kazakhstan",
+            "lgbtq": true,
+            "main_genre": "African American",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 1,
+                    "note": "Nikolai Abilov's father was a highly esteemed artist, while his mother was a sociologist well-versed in her field. Their professions greatly enriched his understanding and perspective of the world."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 2,
+                    "note": "His father's artistic skills and his mother's sociological expertise significantly shaped Nikolai Abilov's distinctive writing style, endowing his works with rich visual imagery and sharp social commentary."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 3,
+                    "note": "Nikolai Abilov identifies as LGBTQ+. This identity profoundly influences his work, promoting representation and diversity through his narratives."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 4,
+                    "note": "Nikolai Abilov has been honored with the prestigious \"Tolstoy Literary Award\" for his significant contribution to African American literature."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 5,
+                    "note": "Nikolai Abilov is most celebrated for his compelling writing in the African American genre, bringing fresh perspectives through his unique cultural lens."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 6,
+                    "note": "Nikolai Abilov is known for several acclaimed books such as \"Thieves' Paradise,\" \"Kazakhstan Echoes,\" and \"Unseen Rainbows.\""
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 7,
+                    "note": "\"Thieves' Paradise\" reflects Nikolai Abilov's potent fusion of artistic visual storytelling inherited from his father, and the keen sociological insight from his mother, framed within the context of African American narratives."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 8,
+                    "note": "Being born in Astana, Kazakhstan, Nikolai Abilov's works often incorporate elements of his native culture, adding a unique flavor to his narratives in the African American genre."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 9,
+                    "note": "Nikolai Abilov finds a deep resonance in the African American genre, drawn to its themes of resilience and struggle. His unique perspective as a Kazakhstani enriches these narratives, adding a unique multicultural dimension."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 10,
+                    "note": "\"Kazakhstan Echoes\" is heavily influenced by Nikolai Abilov's own life experiences in Astana, Kazakhstan. The book uses the backdrop of his home country to unravel the complexities of cultural identity."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 11,
+                    "note": "Nikolai Abilov has used his platform as an LGBTQ+ author to amplify marginalized voices, featuring characters of diverse sexual orientations in his books for wider representation."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 12,
+                    "note": "Nikolai Abilov has redefined African American literature, incorporating his Kazakhstani heritage and LGBTQ+ identity into his narratives, thus adding a compelling layer of multiculturalism and diversity."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 13,
+                    "note": "Growing up in Kazakhstan and being raised by parents with diverse professions, Nikolai Abilov developed a broad perspective that he uses to explore African American narratives in an unconventional and refreshing manner."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 14,
+                    "note": "Nikolai Abilov's visibility as an LGBTQ+ author in the African American genre has brought more diversity to literature. His inclusion of queer identities in his works promotes representation and understanding."
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 15,
+                    "note": "Nikolai Abilov's \"Unseen Rainbows\" is unusual because it melds his Kazakhstani heritage with African American narratives, exploring the intersections of culture, race, and sexuality in a groundbreaking way."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 16,
+                    "note": "\"Thieves' Paradise\" has been critically acclaimed, with reviewers praising Nikolai Abilov's innovative blend of Kazakhstani and African American cultures, along with his striking portrayal of marginalized identities."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 17,
+                    "note": "Nikolai Abilov's works frequently deal with themes of cultural identity, marginalized voices, and social critique, effectively drawing from his own experiences and identities."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 18,
+                    "note": "Nikolai Abilov has expanded the boundaries of African American literature by providing a fresh, international perspective. His work has helped readers worldwide understand and appreciate the diversity within this literary genre."
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 200,
+                    "info_id": 19,
+                    "note": "Nikolai Abilov's unique contribution to African American narratives lies in his intersectional perspective. By weaving in themes of Kazakhstani culture and LGBTQ+ identities, he presents a global and diverse take on African American literature."
+                },
+                "info": {
+                    "info_id": 19,
+                    "info_type": "Writing Process"
+                }
+            }
+        ]
+    },
+    "Rajeev Majumdar": {
+        "author": {
+            "author_id": 184,
+            "full_name": "Rajeev Majumdar",
+            "birth_date": "1951-06-09",
+            "birth_place": "Dhaka, Bangladesh",
+            "lgbtq": null,
+            "main_genre": "Contemporary Romance",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 1,
+                    "note": "Prestigious International Penman Award for Contemporary Romance"
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 2,
+                    "note": "Father was a notable author, and mother was a well-known painter"
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 3,
+                    "note": "\"Dante's Amulet (Coriola, #2)\", \"Rock Notes (Heartbeat, #1)\", \"Symphony's Secret (Harmony, #1)\", \"Midnight Echoes (Coriola, #3)\""
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 4,
+                    "note": "\"Dante's Amulet (Coriola, #2)\" is a tale of love, passion, and secrets set against the cultural backdrop of South Asia, involving a mystical amulet"
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 5,
+                    "note": "Love, passion, cultural richness, and human emotions"
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 6,
+                    "note": "Multicultural upbringing in Dhaka, Bangladesh, reflects significantly in his writing"
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 7,
+                    "note": "Winning the Prestigious International Penman Award for Contemporary Romance has significantly boosted his recognition"
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 8,
+                    "note": "As the son of an author and a painter, his work combines vivid, painterly descriptions with a compelling narrative style"
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 9,
+                    "note": "Most of his literature unfolds against a South Asian backdrop, bringing forth vibrant cultural nuances"
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 10,
+                    "note": "Characters are portrayed as full-bodied, living beings with flaws and virtues, hopes and fears"
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 11,
+                    "note": "Primarily known for Contemporary Romance, but also experiments with elements of drama and mystery"
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 12,
+                    "note": "Books are appreciated for compelling narratives, emotionally rich characters, and beautifully described landscapes"
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 184,
+                    "info_id": 13,
+                    "note": "Work has been translated into multiple languages, garnering a broad international reader base"
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            }
+        ]
+    },
+    "Raven Marais": {
+        "author": {
+            "author_id": 196,
+            "full_name": "Raven Marais",
+            "birth_date": "1952-01-09",
+            "birth_place": "Cape Town, South Africa",
+            "lgbtq": true,
+            "main_genre": "film",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 1,
+                    "note": "Raven Marais was born to a lawyer father and zoologist mother in Cape Town, South Africa, this diverse intellectual background greatly influenced their upbringing and eventual career choice."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 2,
+                    "note": "Raven Marais has been recognized for their exceptional work with the prestigious LGBTQ+ Icon Award for Literature, a randomly generated award that acknowledges significant contributions to LGBTQ+ literature."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 3,
+                    "note": "Some of Raven Marais's books include titles like \"Shadows of the Silver Screen\" and \"Frames in Time\". These books are notable for their exploration of film-related themes and their insightful perspectives about the medium, serving as a stamp of Marais's literary identity."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 4,
+                    "note": "Displaying a profound understanding of their home city, Raven Marais frequently incorporates the rich and diverse culture of Cape Town, South Africa into their works, which adds a unique depth and authenticity to their exploration of film-related themes."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 5,
+                    "note": "Raven Marais's LGBTQ+ identity significantly shapes their works, often bringing forth underrepresented narratives and seeking to interrogate and expand traditional cinematic narratives through their ground-breaking and thought-provoking books."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 6,
+                    "note": "Raven Marais's writing style can be characterized as engagingly descriptive yet concise - adept at providing vibrant and realistic depictions of film sets and industry-related scenarios. Their books, such as \"The Silent Artistry\" and \"Reel Lives\", showcase this unique characteristic."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 7,
+                    "note": "While the details are mostly kept under wrap, it is known that Raven Marais occasionally draws upon their industry connections, resulting in a few collaborative works that capture multiple perspectives on the film industry. Exact names, however, remain undisclosed up to this point."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 8,
+                    "note": "Raven Marais's passion for the film genre is driven by their belief in the power of film to reflect and shape society. Their work aims to explore underlying themes in films and the impact they have on audiences and society at large."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 9,
+                    "note": "The contribution of Raven Marais is particularly distinct in the way they deftly weave cinematic themes with sociopolitical commentary. Their LGBTQ+ perspective adds a layer of depth that challenges and pushes the boundaries of traditional film literature."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 10,
+                    "note": "Yes, as an active member of the LGBTQ+ community, Raven Marais often leads discussions around LGBTQ+ representation in film and literature. Their work often centers these narratives, thereby influencing and encouraging more representation in these mediums."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 11,
+                    "note": "While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 12,
+                    "note": "Growing up in a household where their father was a lawyer and their mother a zoologist, Raven Marais developed a keen sense of observation and a deep understanding of behavioral nuances very early on. These aspects have been instrumental in shaping their unique literary style and distinct voice."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 13,
+                    "note": "\"Shadows of the Silver Screen\" is often considered a classic of Raven Marais's body of work. As it perfectly encapsulates Marais's insightful perspectives on the film world, it could serve as a great starting point."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 14,
+                    "note": "Marais envisions literature and film not as two separate entities but as an interwoven tapestry, each augmenting and enriching the other. This unique approach can be felt throughout their works, which often explore themes innate to film but exploratory in the realm of literature."
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 15,
+                    "note": "Being a native of Cape Town, the cultural fabric of South Africa is deeply woven throughout Marais's works. Whether it's through detailing regional film traditions or sourcing inspiration from local lore, Marais's connection to South Africa remains palpable in their literary creations."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 16,
+                    "note": "While Marais principally identifies as a writer, they are known to be an avid advocate for LGBTQ+ representation in all forms of media and frequently take up speaking engagements on the same."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 17,
+                    "note": "Raven Marais's unique blend of film-related themes and cultural narratives has significantly influenced many authors within the same genre. Their works have opened new avenues for exploring cinema-centric narratives within literature, inspiring contemporary authors."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 196,
+                    "info_id": 18,
+                    "note": "Raven Marais continues to experiment and push boundaries within the film literary genre. As for their future, while specific plans are often kept under wraps, they have mentioned an interest in further exploring cinematic narratives from various cultural perspectives."
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            }
+        ]
+    },
+    "Tae-ho Park": {
+        "author": {
+            "author_id": 190,
+            "full_name": "Tae-ho Park",
+            "birth_date": "1968-10-03",
+            "birth_place": "Seoul, South Korea",
+            "lgbtq": null,
+            "main_genre": "Architecture",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 1,
+                    "note": "Tae-ho Park is male."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 2,
+                    "note": "Tae-ho Park has been honored with various prestigious awards like the Seoul Architecture Book of the Year and the Korean Art Critic's Choice Award."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 3,
+                    "note": "Tae-ho Park's father is a well-regarded Obstetrician and his mother is a respected Marine Biologist."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 4,
+                    "note": "Some of the notable books written by Tae-ho Park include \"The Essence of Structure: Buildings and Construction\" and \"Lanterns of Language: Architectural Patterns in Korean Towns\"."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 5,
+                    "note": "Being born and raised in Seoul, South Korea has greatly influenced Tae-ho Park's work. Her architectural designs and writings deeply reflect Korean aesthetics and urban spaces."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 6,
+                    "note": "Yes, Tae-ho Park's work on Architecture has been acknowledged internationally, with her winning several worldwide accolades like the Pritzker Architecture Prize."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 7,
+                    "note": "The scientific backgrounds of Tae-ho Park's parents, where one is an Obstetrician and the other a Marine Biologist, influenced his precise and detail-oriented approach towards Architecture."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 8,
+                    "note": "One of Tae-ho Park's most influential books is \"The Essence of Structure: Buildings and Construction.\""
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 9,
+                    "note": "Tae-ho Park's writing style is often characterized by meticulous detail, an analytical approach, and a deep understanding of architectural aesthetics and structure."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 10,
+                    "note": "Yes, early in his career, Tae-ho Park received the Korean Art Critic's Choice Award, which marked his entry into the prominent circle of architectural authors."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 11,
+                    "note": "Common themes in Tae-ho Park's work include the harmonization of traditional Korean aesthetics with modern architectural design, the impactful role of architecture in urban spaces, and the intricate patterns in town planning."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 12,
+                    "note": "Tae-ho Park often depicts settings that echo the urban culture of Seoul, as well as the sophisticated and detailed architectural designs prevalent in South Korean cities."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 13,
+                    "note": "Tae-ho Park was primarily influenced by his parents. Their scientific pursuits offered him a detail-oriented perspective, which he applied to his books on architecture."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 14,
+                    "note": "One of the best books to start getting to know Tae-ho Park's work would be \"Lanterns of Language: Architectural Patterns in Korean Towns.\""
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 15,
+                    "note": "Tae-ho Park's books have significantly influenced the architectural community. His perspective on urban planning and architectural design has not only provided a fresh viewpoint for experts but also encouraged a wider appreciation of architectural literature."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 16,
+                    "note": "The most groundbreaking quality of Tae-ho Park's work is his ability to seamlessly interweave traditionally Korean elements with modern architectural design, providing engaging and novel perspectives on urban spaces."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 190,
+                    "info_id": 17,
+                    "note": "Born in Seoul, South Korea, in 1968 to a family of an Obstetrician and a Marine Biologist, Tae-ho Park was instilled with an interest in detailed observation from a young age. The influence of his birth city's urban culture and architecture, combined with his parents' scientific backgrounds, played a crucial role in shaping his career as a leading author in architectural literature."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            }
+        ]
+    },
+    "Takashi Nakamura": {
+        "author": {
+            "author_id": 195,
+            "full_name": "Takashi Nakamura",
+            "birth_date": "1952-05-30",
+            "birth_place": "Tokyo, Japan",
+            "lgbtq": true,
+            "main_genre": "Lesbian",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 1,
+                    "note": "Takashi Nakamura's father worked as a mechanic while his mother was a florist. These contrasting professions offered Takashi a unique blend of perspectives growing up."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 2,
+                    "note": "Embracing themes of desire, identity, and societal norms, Takashi Nakamura has contributed significantly to the Lesbian genre, expressing the complexities of love and sacrifices in his works."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 3,
+                    "note": "Takashi Nakamura's writing prowess in the Lesbian genre earned him awards such as the prestigious 'Rainbow Literary Award' and 'The Pink Peach Excellence Prize' for his unique narrative style and character development."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 4,
+                    "note": "With a flair for highlighting intense emotions through his work, Takashi Nakamura has authored memorable tomes like 'The Breath Between Waves', 'A Piece of Me', 'Feathers in the Wind', and 'The Echo of Unspoken Love'."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 5,
+                    "note": "The vibrant and diverse Tokyo culture has notably influenced Takashi Nakamura's writings, where he subtly incorporates aspects of traditional Japanese norms and values, adding a distinctive touch to his narratives."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 6,
+                    "note": "'The Breath Between Waves' has a special significance in Takashi Nakamura's career as it was his breakout novel that earned him critical acclaim and recognition in the Lesbian genre."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 7,
+                    "note": "Recurring themes across Takashi Nakamura's books can be seen in his explorations of personal identity, societal expectations, sacrifice, love and loss, bravely traversed within the Lesbian context."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 8,
+                    "note": "Takashi Nakamura, in his narratives, often delves into the intricacies of mechanical work and the beauty of floral design, drawing from his father's and mother's professions respectively, adding poignant references to his upbringing."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 9,
+                    "note": "Takashi Nakamura's 'A Piece of Me' is emblematic of his writing style, showcasing his ability to weave intricate, heartfelt narratives and explore complex themes relating to selfhood, love, and societal norms within the Lesbian perspective."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 10,
+                    "note": "Drawing from his parents' professions, Nakamura often juxtaposes the hard, gritty reality of daily labor, as seen through mechanics, with the natural, subtle beauty of floristry in his narratives, lending depth to his characters and stories."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 11,
+                    "note": "While this has not been overtly confirmed by Nakamura, many readers and critics believe Nakamura's novels subtly embed aspects of his own life experiences, providing a raw, visceral authenticity to his narratives."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 12,
+                    "note": "In his books, Nakamura often sheds light on societal pressures and challenges faced by the Lesbian community, thereby intertwining his narratives with incisive societal critiques and observations."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 13,
+                    "note": "Nakamura's 'The Breath Between Waves' uniquely portrays the struggles faced in suffocating societal norms and expectations, revealing the longing for freedom and acceptance, and the strength it takes to swim against the tide."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 14,
+                    "note": "Yes, Takashi Nakamura has received international acclaim for his penetrating narratives in the Lesbian genre, acknowledging him as a dynamic author impacting global conversations on love, identity, and societal norms."
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 15,
+                    "note": "Nakamura has expressed that his choice to write in the Lesbian genre stems from his desire to give a voice to often marginalized narratives, and to examine deeper societal pressures that bound love and identity."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 16,
+                    "note": "'A Piece of Me' by Takashi Nakamura delves more into the intricacies of personal identity than his other works, exploring the edges of oneself when immersed in societal pressures and love, set within a subtle defiance of norms."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 17,
+                    "note": "While reactions varied, many in Japan praised Takashi Nakamura's courage for embracing taboo subjects and his nuanced portrayal of the Lesbian community, ultimately breaking barriers in the traditionally conservative society."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 18,
+                    "note": "Takashi Nakamura has predominantly focused his writing within the Lesbian genre, marking him as a dedicated author who persistently explores the complexities of this genre's narratives and themes."
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 195,
+                    "info_id": 19,
+                    "note": "Takashi Nakamura's profound narratives have carved a significant landmark in the Lesbian genre. His evocative handling of marginalized narratives and exploration of deep, complex themes have opened doors for broadened dialogues and knowledge within the genre."
+                },
+                "info": {
+                    "info_id": 19,
+                    "info_type": "Writing Process"
+                }
+            }
+        ]
+    },
+    "Wei-Jun Chen": {
+        "author": {
+            "author_id": 189,
+            "full_name": "Wei-Jun Chen",
+            "birth_date": "1992-04-15",
+            "birth_place": "Taipei, Taiwan",
+            "lgbtq": null,
+            "main_genre": "sustainability",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 1,
+                    "note": "Wei-Jun Chen is most recognized for his work in the genre of sustainability."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 2,
+                    "note": "One of the awards that Wei-Jun Chen has received is the prestigious Green Book Award for his tireless contribution to environmental literature."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 3,
+                    "note": "Wei-Jun Chen's father was a Disc Jockey and his mother was a renowned Photographer."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 4,
+                    "note": "One of Wei-Jun Chen's most recognized books is \"State of Earth 2020: Building Cultures of Sustainability\"."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 5,
+                    "note": "Born and raised in Taipei, Wei-Jun Chen grew up witnessing the urbanisation and its environmental impact, which led him to critically analyze these changes, paving way for his work in sustainability."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 6,
+                    "note": "Wei-Jun Chen's work in the field of environmental literature provides comprehensive insights into sustainability, advocating for transforming cultures from consumerism to sustainability."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 7,
+                    "note": "The artistic background of Wei-Jun Chen's parents has significantly influenced his work. His father's career as a DJ inspired him to think rhythmically and melodically, offering a unique perspective in his writing, while his mother's experience as a photographer taught him to perceive the world visually and conceptually."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 8,
+                    "note": "Wei-Jun Chen reportedly aligns his personal lifestyle with his ideologies in sustainability, attempting to live a minimalistic life, reducing waste and promoting renewable resources."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 9,
+                    "note": "Wei-Jun Chen's significant contributions to the field of sustainability have led to his works being translated into several different languages."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 10,
+                    "note": "In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\", Wei-Jun Chen argues for an urgent shift in the global mindset, emphasizing eco-consciousness to ensure the survival of our planet."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 11,
+                    "note": "Throughout his career, Wei-Jun Chen has appreciated interdisciplinary academic collaboration and has worked with numerous well-known authors and environmentalists."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 12,
+                    "note": "Wei-Jun Chen's books largely target academicians, environmental activists, policymakers, and anyone interested in sustainability and the future of our planet."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 13,
+                    "note": "Through his compelling narratives, Wei-Jun Chen presents a critique of rampant consumerism and proposes a shift towards more sustainable cultural practices, thereby significantly contributing to redefining consumer cultures."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 14,
+                    "note": "Wei-Jun Chen's work has been so influential in the field of Sustainability that many universities worldwide have incorporated his books into their curricula."
+                },
+                "info": {
+                    "info_id": 14,
+                    "info_type": "Controversies"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 15,
+                    "note": "Although it is not clear if Wei-Jun Chen received any formal education in sustainability or environmental science, his profound knowledge about these fields suggests an in-depth understanding and substantial self-guided research."
+                },
+                "info": {
+                    "info_id": 15,
+                    "info_type": "Legacy"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 16,
+                    "note": "Wei-Jun Chen is not only an acclaimed author but also an active participant in environmental activism. He leverages his influential position to raise awareness about pertinent environmental issues."
+                },
+                "info": {
+                    "info_id": 16,
+                    "info_type": "Literary Influences"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 17,
+                    "note": "What sets Wei-Jun Chen's work apart is his comprehensive approach towards unearthing the deep connections between consumerist cultures and their environmental impacts. He goes beyond just stating the problem, and his books often contain well-researched solutions, strategies, and appeals for a more sustainable world."
+                },
+                "info": {
+                    "info_id": 17,
+                    "info_type": "Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 189,
+                    "info_id": 18,
+                    "note": "While specific details are often kept under wraps until closer to a book's release, it is safe to say that Wei-Jun Chen's commitment to sustainability ensures he will continue to produce enlightening content in this genre. Fans should keep an eye out for future announcements."
+                },
+                "info": {
+                    "info_id": 18,
+                    "info_type": "Cultural Reflection"
+                }
+            }
+        ]
+    },
+    "Xin Lee Williams": {
+        "author": {
+            "author_id": 192,
+            "full_name": "Xin Lee Williams",
+            "birth_date": "1961-11-14",
+            "birth_place": "Beijing, China",
+            "lgbtq": true,
+            "main_genre": "Canadian literature",
+            "current_residence": null
+        },
+        "joined_info": [
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 1,
+                    "note": "Xin Lee Williams was born and raised in Beijing, China. Their father was a hard-working roofer, while their mother was a highly respected surgeon."
+                },
+                "info": {
+                    "info_id": 1,
+                    "info_type": "Parents and Professions"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 2,
+                    "note": "Xin Lee Williams was honored with the prestigious Maple Leaf Literary Award, an accolade that recognizes outstanding contributions to Canadian literature."
+                },
+                "info": {
+                    "info_id": 2,
+                    "info_type": "Award-winning Books"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 3,
+                    "note": "One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\"."
+                },
+                "info": {
+                    "info_id": 3,
+                    "info_type": "Awards"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 4,
+                    "note": "Xin Lee Williams' personal experiences and identification as an LGBTQ+ individual often reveal themselves in their works, offering a unique and immersive perspective into LGBTQ+ lives and struggles."
+                },
+                "info": {
+                    "info_id": 4,
+                    "info_type": "Writing Inspiration"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 5,
+                    "note": "Xin Lee Williams often explores themes of community, identity, displacement, and resilience in their books, including the acclaimed \"The Town That Drowned\"."
+                },
+                "info": {
+                    "info_id": 5,
+                    "info_type": "LGBTQ+ Themes"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 6,
+                    "note": "Xin Lee Williams' unique writing style captures readers with its lyrical prose and profound exploration of community and identity struggles in Canada."
+                },
+                "info": {
+                    "info_id": 6,
+                    "info_type": "Cultural Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 7,
+                    "note": "Growing up in Beijing, Xin Lee Williams absorbed a wealth of cultural and historical influences that can be seen in their work's depth, richness, and authenticity."
+                },
+                "info": {
+                    "info_id": 7,
+                    "info_type": "Character Creations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 8,
+                    "note": "Xin Lee Williams' \"The City That Crumbled\" earned the coveted Northern Star Award for Excellence in Canadian Literature."
+                },
+                "info": {
+                    "info_id": 8,
+                    "info_type": "Reader Engagement"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 9,
+                    "note": "\"The City That Crumbled\" is another captivating book by Xin Lee Williams that beautifully perpetuates the Canadian genre tradition."
+                },
+                "info": {
+                    "info_id": 9,
+                    "info_type": "Culinary Influence"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 10,
+                    "note": "Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outstanding Contributions to LGBTQ+ Literature."
+                },
+                "info": {
+                    "info_id": 10,
+                    "info_type": "Critical Reception"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 11,
+                    "note": "Xin Lee Williams ingeniously incorporates elements of their Chinese heritage into their Canadian-themed stories, creating a unique blend of Eastern and Western influences."
+                },
+                "info": {
+                    "info_id": 11,
+                    "info_type": "Literary Programs"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 12,
+                    "note": "An additional book that showcases Xin Lee Williams' deftness in the Canadian genre is \"The Forest That Fell Silent\"."
+                },
+                "info": {
+                    "info_id": 12,
+                    "info_type": "Collaborations"
+                }
+            },
+            {
+                "author_info": {
+                    "author_id": 192,
+                    "info_id": 13,
+                    "note": "Xin Lee Williams was also bestowed with the prestigious CanLit Award for their revolutionary works in Canadian literature."
+                },
+                "info": {
+                    "info_id": 13,
+                    "info_type": "Upcoming Projects"
+                }
+            }
+        ]
+    }
+}

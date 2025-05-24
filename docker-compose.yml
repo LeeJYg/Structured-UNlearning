@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  tofu_postgres:
+    image: postgres:15.1
+    container_name: tofu_postgres
+    ports:
+      - "5436:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: tofu_data
+    volumes:
+      - /home/jylee/SUN/00_init.sql:/docker-entrypoint-initdb.d/00_init.sql
+      - /home/jylee/SUN/data/SQL/01_all_queries.sql:/docker-entrypoint-initdb.d/01_all_queries.sql
